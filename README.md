@@ -1,3 +1,6 @@
+Repository moved: [ShapeLayer/ucpc-solutions__typst](https://github.com/ShapeLayer/ucpc-solutions__typst)
+
+---
 # UCPC 2020 Solutions Theme (Typst ported)
 
 [Original: ucpc2020-solutions-theme](https://github.com/ucpcc/2020-solutions-theme)
